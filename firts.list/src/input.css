@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#pl{
+    background-image: url("./1.png");
+background-repeat: no-repeat;
+}
+#pb{
+    background-image: url("./2.png");
+background-repeat: no-repeat;
+}
+#pc{
+    background-image: url("./3.png");
+background-repeat: no-repeat;
+}
